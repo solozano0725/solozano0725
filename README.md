@@ -9,7 +9,7 @@
 :card_file_box:	 Before, I worked as a _Software Engineer (BackEnd):computer:_ using **Java, Android, Kotlin** as main programming languages. Also, I applied _SOA (Service Oriented Architecture)_ with Oracle tools and REST/SOAP webservices. 
 
 ## A little more about me:lion:... 	
-I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by research:mag_right: and content creation:bookmark_tabs: related to new technologies in BI and Data Mining sides. Other hobbies I had 
+I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by research:mag_right: and content creation:bookmark_tabs: related to new technologies in BI and Data Mining sides. Other hobbies that I have are: craft beer:beer:, wines:wine_glass:, italian and spanish food:shallow_pan_of_food:, world's history :globe_with_meridians:, horror, mistery movies and series, documentaries abour real facts :detective:.  
 
 ## Skills:computer:
 ### Languages
