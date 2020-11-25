@@ -43,7 +43,7 @@ I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by resea
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-D22128?style=for-the-badge&logo=maven&logoColor=white)
 
-### Tools
+### Softwares
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
