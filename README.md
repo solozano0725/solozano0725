@@ -22,7 +22,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_SERVER-green?logo=microsoft-sql-server&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_SERVER-9b9b9b?logo=microsoft-sql-server&style=for-the-badge)
 
 ## About me:lion:	
 
@@ -40,7 +40,7 @@ I love to travel anywhere in the world where I can learn about the culture, trad
 
 # 📫 How to reach me: ...
 [![Gmail](https://img.shields.io/badge/solozano0725@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mailito:solozano0725@gmail.com)
+)](malito:solozano0725@gmail.com)
 [![Twitter](https://img.shields.io/badge/solozano0725-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/solozano0725)
 [![GitHub](https://img.shields.io/badge/solozano0725-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solozano0725)
 [![LinkedIn](https://img.shields.io/badge/Sol_Lozano-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solozano0725)
