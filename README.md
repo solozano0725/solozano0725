@@ -1,4 +1,4 @@
-# Hi, I'm Sol Lozano 👋 :woman_technologist:
+# Hello! I'm Sol Lozano 👋 :woman_technologist:
 
 ![Alt Text](https://miro.medium.com/max/1000/1*QFRce-OnlybDjvWhMX8Y-w.gif)
 
@@ -59,7 +59,7 @@ I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by resea
 ![Jira](https://img.shields.io/badge/Jira-1675BC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
-### IDE
+### IDEs
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeans_IDE-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white)
@@ -67,7 +67,7 @@ I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by resea
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad-plus-plus&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Version Controller
+### Version Controllers
 ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=github&logoColor=white)
