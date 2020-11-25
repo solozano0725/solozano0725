@@ -8,8 +8,10 @@
 
 :card_file_box:	 Before, I worked as a _Software Engineer (BackEnd):computer:_ using **Java, Android, Kotlin** as main programming languages. Also, I applied _SOA (Service Oriented Architecture)_ with Oracle tools and REST/SOAP webservices. 
 
-## Skills:computer:
+## A little more about me:lion:... 	
+I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by research:mag_right: and content creation:bookmark_tabs: related to new technologies in BI and Data Mining sides. Other hobbies I had 
 
+## Skills:computer:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -26,8 +28,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL_SERVER-9b9b9b?logo=microsoft-sql-server&style=for-the-badge&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?logo=firebase&style=for-the-badge&logoColor=white)
 
-## Tools:wrench:
 
+## Tools:wrench:
 ### Libraries
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
@@ -71,13 +73,8 @@
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## About me:lion:	
-
-I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by research:mag_right: and content creation:bookmark_tabs: related to new technologies in BI and Data Mining sides. Other hobbies I had 
-
 
 ## Interests:books:
-
 I love to :airplane:	 anywhere in the :world_map:  where I can learn about the culture, traditions, the most emblematic places and especially:blue_heart:, the food and its liquor:beers:
 
 At the moment, I visited a few of country between have Argentina, Uruguay, Brazil and Paraguay and I'm waiting know soon some places.
