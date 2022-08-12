@@ -2,7 +2,7 @@
 
 ![Alt Text](https://miro.medium.com/max/1000/1*QFRce-OnlybDjvWhMX8Y-w.gif)
 
-:nerd_face::briefcase: I'm working as **Data Engineer**...
+:nerd_face::briefcase: I'm working as **Data Architect**...
 
 :mortar_board: I'm learning constantly a lot of interesting things related to **_#MachineLearning, #BigDataArchitecture, #DataMining, #ETL_**. 
 
@@ -11,21 +11,40 @@
 ## A little more about me:lion:... 	
 I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by research:mag_right: and content creation:bookmark_tabs: related to new technologies in BI and Data Mining sides. Other hobbies that I have are: craft beer:beer:, wines:wine_glass:, italian and spanish food:shallow_pan_of_food:, world's history :globe_with_meridians:, horror, mistery movies and series, documentaries abour real facts :detective:.  
 
+
 ## Skills:computer:
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-0095D5?style=for-the-badge&logo=snowflake&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_SERVER-9b9b9b?logo=microsoft-sql-server&style=for-the-badge&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase_Realtime-FFCA28?logo=firebase&style=for-the-badge&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+![AmazonRDS](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+
+### CI/CD
+![CircleCI](https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white)
+![AzureDevops](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+
+### Data Enviroments
+![Snowflake](https://img.shields.io/badge/Snowflake-0095D5?style=for-the-badge&logo=snowflake&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=talend&logoColor=white)
+![Pentaho](https://img.shields.io/badge/Pentaho-232F3E?style=for-the-badge&logo=pentaho&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QlikSense](https://img.shields.io/badge/QlikSense-42B029?style=for-the-badge&logo=qliksense&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
 
 ## Tools:wrench:
@@ -52,13 +71,7 @@ I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by resea
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle_Suite_SOA/DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![QlikSense](https://img.shields.io/badge/QlikSense-42B029?style=for-the-badge&logo=qliksense&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-007A88?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-1675BC?style=for-the-badge&logo=talend&logoColor=white)
-![Pentaho](https://img.shields.io/badge/Pentaho-232F3E?style=for-the-badge&logo=pentaho&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-1675BC?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 
@@ -74,7 +87,6 @@ I was born in Barranquilla, Colombia. I'm Leo:leo:. I have some passion by resea
 ![GitHub](https://img.shields.io/badge/GIT-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Subversion](https://img.shields.io/badge/Subversion-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
-
 
 
 ## Interests:books:
