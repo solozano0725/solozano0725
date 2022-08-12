@@ -4,7 +4,7 @@
 
 :nerd_face::briefcase: I'm working as **Data Architect**...
 
-:mortar_board: I'm learning constantly a lot of interesting things related to **_#MachineLearning, #BigDataArchitecture, #DataMining, #ETL_**. 
+:mortar_board: I'm learning constantly a lot of interesting things related to **_#DataArchitecture, #DataGovernance, #DataEngineering, #CICD_**. 
 
 :card_file_box:	 Before, I worked as a _Software Engineer (BackEnd):computer:_ using **Java, Android, Kotlin** as main programming languages. Also, I applied _SOA (Service Oriented Architecture)_ with Oracle tools and REST/SOAP webservices. 
 
