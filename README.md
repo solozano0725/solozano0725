@@ -95,7 +95,7 @@ I was born in Barranquilla, Colombia 🇨🇴. I'm Leo :leo:. I have a passion f
 ## Interests :airplane:
 I love to travel anywhere in the world where I can learn about the culture, traditions, and especially the food and its liquor :beers:
 
-:performing_arts: Visited: **Argentina, Uruguay, Brazil and Paraguay**. Ready for the next one!
+:performing_arts: Visited: **32 countries around the world** between LATAM and Europe. Ready for the next one!
 
 ---
 
