@@ -2,11 +2,11 @@
 
 ![Data Engineering Animation](https://miro.medium.com/max/1000/1*QFRce-OnlybDjvWhMX8Y-w.gif)
 
-[cite_start]:nerd_face::briefcase: Currently working as a **Solution Consultant LVL 3** at a **Leading Cloud Data Company**, leading complex migration processes  using **SnowConvert** and Python to ensure structural and functional parity[cite: 19, 21, 23].
+[cite_start] :nerd_face: :briefcase: Currently working as a **Solution Consultant LVL 3** at a **Leading Cloud Data Company**, leading complex migration processes  using **SnowConvert** and Python to ensure structural and functional parity [cite: 19, 21, 23].
 
 :mortar_board: Constantly evolving in **#DataArchitecture, #DataGovernance, #MLOps, and #DataMesh**. I'm currently exploring **Prefect** and **Pydantic** for advanced agentic workflows.
 
-[cite_start]:card_file_box: Previously, as a **Tech Data Lead & Data Architect** at a **Global Digital Transformation Firm**, I managed multidisciplinary teams of 10+ engineers, delivering enterprise datasets and MLOps strategies on Azure, AWS, and GCP[cite: 59, 62, 64, 70]. My background as a **Software Engineer** gave me a solid foundation in **SOA**, middleware, and languages like **Java and Kotlin**[cite: 81, 83].
+[cite_start] :card_file_box: Previously, as a **Tech Data Lead & Data Architect** at a **Global Digital Transformation Firm**, I managed multidisciplinary teams of 10+ engineers, delivering enterprise datasets and MLOps strategies on Azure, AWS, and GCP[cite: 59, 62, 64, 70]. My background as a **Software Engineer** gave me a solid foundation in **SOA**, middleware, and languages like **Java and Kotlin**[cite: 81, 83].
 
 ## A little more about me :lion:
 I was born in Barranquilla, Colombia 🇨🇴. I'm Leo :leo:. I have a passion for research :mag_right: and content creation related to **Data Transformation**, **Governance**, **Data Architecture**, and **Leadership**.
